@@ -1,0 +1,8 @@
+.s{
+    margin: top 50px;;
+    display: grid;
+    grid-auto-flow: column;
+    padding: 170px;
+    justify-content: center;
+
+}
